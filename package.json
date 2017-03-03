@@ -16,7 +16,8 @@
   },
   "dependencies": {
     "chalk": "^1.1.3",
-    "electric": "alpha",
+    "electric": "git://github.com/fernandosouza/electric.git#plugins",
+    "electric-style-plugin": "git://github.com/fernandosouza/electric-style-plugin.git",
     "generator-electric": "alpha",
     "gulp": "^3.9.1",
     "pretty-hrtime": "^1.0.3",
